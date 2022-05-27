@@ -1,0 +1,6 @@
+C:\Users\52664\source\repos\Numero_Cuadrado\Numero_Cuadrado\bin\Debug\Numero_Cuadrado.exe.config
+C:\Users\52664\source\repos\Numero_Cuadrado\Numero_Cuadrado\bin\Debug\Numero_Cuadrado.exe
+C:\Users\52664\source\repos\Numero_Cuadrado\Numero_Cuadrado\bin\Debug\Numero_Cuadrado.pdb
+C:\Users\52664\source\repos\Numero_Cuadrado\Numero_Cuadrado\obj\Debug\Numero_Cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\52664\source\repos\Numero_Cuadrado\Numero_Cuadrado\obj\Debug\Numero_Cuadrado.exe
+C:\Users\52664\source\repos\Numero_Cuadrado\Numero_Cuadrado\obj\Debug\Numero_Cuadrado.pdb
